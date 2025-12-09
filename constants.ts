@@ -1,0 +1,15 @@
+// Arix Signature Color Palette
+export const COLORS = {
+  GOLD_METALLIC: '#D4AF37',
+  GOLD_HIGHLIGHT: '#FFF5C2',
+  EMERALD_DEEP: '#022B1C',
+  EMERALD_LIGHT: '#0B4F36',
+  BLACK_RICH: '#000906',
+  RED_VELVET: '#680C0C',
+};
+
+export const CONSTANTS = {
+  TREE_HEIGHT: 7,
+  TREE_LEVELS: 5,
+  ORNAMENT_COUNT: 45,
+};
